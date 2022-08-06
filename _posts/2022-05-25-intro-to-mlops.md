@@ -7,7 +7,6 @@ comments: true
 description: Introducing to MLOps.
 ---
 
-
 # Part I. MLOps: What and Why
 ## 1. Why NOW and Challenge
 ### 1.1. Defining MLOPs and Its Challenges
