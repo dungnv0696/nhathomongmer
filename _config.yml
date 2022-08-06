@@ -1,11 +1,11 @@
 ### Site Settings ###
-title               : nhathomongmo
+title               : nhathomongmer
 description         : >-
                       i  = 0x5f3759df - ( i >> 1 );
-baseurl             : "/nhathomongmo"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+baseurl             : "/nhathomongmer"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 #repository          : dungnv0696/nhathomongmo     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 #remote_theme        : dungnv0696/nhathomongmo
-open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
+open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
 ### Plugins ###
@@ -17,7 +17,7 @@ plugins:
 nav_exclude:                                            # The following paths are excluded from navbar
   - pages/tags.html
   - pages/404.html
-  - pages/index.md
+  - index.html
 
 
 ### Author Info ###
