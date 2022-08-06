@@ -1,22 +1,10 @@
 {%- comment -%} Default Styles {%- endcomment -%}
 {%- assign card_style  = '' -%}
 {%- assign text_style  = 'text-themed' -%}
-{%- assign badge_style = 'badge-dark' -%}
+{%- assign badge_style = 'badge-info' -%}
 
 {%- comment -%} Update Styles {%- endcomment -%}
-{%- if post.style == 'fill' -%}
-  {%- assign card_style = post.color | prepend: 'bg-' -%}
-  {%- if post.color != 'light' -%}
-    {%- assign text_style  = 'text-white' -%}
-    {%- assign badge_style = 'badge-light text-' -%}
-    {%- assign badge_style = badge_style | append: post.color -%}
-  {%- endif -%}
-{%- else -%}
-  {%- assign card_style = post.color | prepend: 'border border-' -%}
-  {%- if post.color -%}
-    {%- assign badge_style =  post.color | prepend: 'badge-' -%}
-  {%- endif -%}
-{%- endif -%}
+{%- assign card_style = 'light' | prepend: 'bg-' -%}
 
 {%- comment -%} Determine Post URL {%- endcomment -%}
 {%- if post.external_url -%}
