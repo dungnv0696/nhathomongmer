@@ -1,0 +1,120 @@
+// Fine Circle Responsive Image
+// Inspired by https://stackoverflow.com/a/6615994/10194811
+
+#container {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+}
+
+#dummy {
+  padding-top: 100%; /* 1:1 aspect ratio */
+}
+
+#element {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.circle-image {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.home-hero {
+  color: #fff;
+  background: linear-gradient(
+      to right,
+      rgba(#0062b9, 0.8),
+      rgba(#0062b9, 0.8)
+    ),
+    url(../../assets/svg/common-bg.svg);
+  background-position: center;
+
+  height: 100vh;
+
+  min-height: 80rem;
+  max-height: 120rem;
+  position: relative;
+
+  @include respond(big-desktop) {
+    height: unset;
+    min-height: unset;
+  }
+
+  &__socials {
+    position: absolute;
+    top: 50%;
+    border: 2px solid #eee;
+    border-left: 2px solid #eee;
+    transform: translateY(-50%);
+    @include respond(tab-port) {
+      display: none;
+    }
+  }
+  &__mouse-scroll-cont {
+    position: absolute;
+    bottom: 3%;
+    left: 50%;
+    transform: translateX(-50%);
+
+    @include respond(phone) {
+      display: none;
+    }
+  }
+
+  &__social {
+    width: 5rem;
+  }
+
+  &__social-icon-link {
+    width: 100%;
+    display: block;
+    padding: 1.2rem;
+    border-bottom: 2px solid #eee;
+    transition: background .3s;
+
+    &:hover {
+      background: rgba(#fff,.1);
+    }
+
+    &--bd-none {
+      border-bottom: 0;
+    }
+  }
+
+  &__social-icon {
+    width: 100%;
+  }
+
+  &__content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 90rem;
+    width: 92%;
+
+    @include respond(phone) {
+      padding: 19rem 0 13rem 0;
+      margin: auto;
+      position: static;
+      transform: translate(0, 0);
+    }
+  }
+
+  &__info {
+    margin: 3rem auto 0 auto;
+    max-width: 80rem;
+  }
+  &__cta {
+    margin-top: 5rem;
+    text-align: center;
+  }
+}
