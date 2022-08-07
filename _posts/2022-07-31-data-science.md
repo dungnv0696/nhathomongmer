@@ -20,6 +20,7 @@ description: Data Science
 ## Part II. Data Science
 ### Chapter 5. Differences Between Business Intelligence and Data Science
 
+<div>
 <table>
 <thead>
   <tr>
@@ -45,7 +46,7 @@ description: Data Science
     <td>Reports, KPI, trend</td>
     <td>Patterns, correlations, models</td>
   </tr>
-  <tr>
+  <tr style="background-color:#FFFFFF">
     <td>Process</td>
     <td>Static, comparative</td>
     <td>Exploratory, experimentation, visual</td>
@@ -55,7 +56,7 @@ description: Data Science
     <td>Pre-planned, added slowly</td>
     <td>On the fly, as needed</td>
   </tr>
-  <tr>
+  <tr style="background-color:#FFFFFF">
     <td>Transform</td>
     <td>Upfront, carefully planned</td>
     <td>In-database, on demand, enrichment</td>
@@ -65,7 +66,7 @@ description: Data Science
     <td>Single version of truth</td>
     <td>"Good enough" probabilities</td>
   </tr>
-  <tr>
+  <tr style="background-color:#FFFFFF">
     <td>Data model</td>
     <td>Schema on load</td>
     <td>Schema on query</td>
@@ -173,11 +174,13 @@ description: Data Science
         <li>Create analytic profile on each of organization's key business entity at individual level (ex: demographic, transactional metrics, social media metrics, etc.)</li>
         <li>Each analytic profile contains hundreds of metrics</li>
         <li>Depending on business initiative, some metrics may be more important than others</li>
+        <br>
         Example of analysis process for improve customer retention:
         <img src="https://dungnv0696.github.io/nhathomongmer/assets/images/example_analysis_process.png"/>
     </td>
   </tr>
 </tbody>
 </table>
+</div>
 
 ### Chapter 6. Data Science 101
