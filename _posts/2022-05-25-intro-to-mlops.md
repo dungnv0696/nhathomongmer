@@ -7,6 +7,25 @@ comments: true
 description: Introducing to MLOps.
 ---
 
+# Table of contents
+<!-- Start Document Outline -->
+
+* [Part I. MLOps: What and Why](#part-i-mlops-what-and-why)
+	* [1. Why NOW and Challenge](#1-why-now-and-challenge)
+		* [1.1. Defining MLOPs and Its Challenges](#11-defining-mlops-and-its-challenges)
+		* [1.2. MLOps to Mitigate Risk](#12-mlops-to-mitigate-risk)
+		* [1.3. MLOps for Responsible AI](#13-mlops-for-responsible-ai)
+		* [1.4. MLOps for Scale](#14-mlops-for-scale)
+	* [2. Key MLOps Features](#2-key-mlops-features)
+		* [2.1. Model Development](#21-model-development)
+			* [2.1.1. Establishing Business Objectives](#211-establishing-business-objectives)
+			* [2.1.2. Data Sources and Exploratory Data Analysis](#212-data-sources-and-exploratory-data-analysis)
+			* [2.1.3. Feature Engineering and Selection](#213-feature-engineering-and-selection)
+			* [2.1.4. Model Training and Evaluation](#214-model-training-and-evaluation)
+			* [2.1.5. Reproducibility](#215-reproducibility)
+
+<!-- End Document Outline -->
+
 # Part I. MLOps: What and Why
 ## 1. Why NOW and Challenge
 ### 1.1. Defining MLOPs and Its Challenges

@@ -7,6 +7,37 @@ comments: true
 description: Business Potential of Big Data
 ---
 
+<!-- Start Document Outline -->
+# Table of contents
+* [The Art &amp; Science of Driving Business](#the-art--science-of-driving-business)
+	* [Part I. Business Potential of Big Data](#part-i-business-potential-of-big-data)
+		* [Chapter 1. The Big Data Business Mandate](#chapter-1-the-big-data-business-mandate)
+			* [1.1 Big Data MBA Introduction](#11-big-data-mba-introduction)
+			* [1.2. Focus Big Data on Driving Competitive Differentiation](#12-focus-big-data-on-driving-competitive-differentiation)
+			* [1.3. Leveraging Technology to Power Competitive Differentiation](#13-leveraging-technology-to-power-competitive-differentiation)
+			* [1.4. History Lesson on Economic-Driven Business Transformation](#14-history-lesson-on-economic-driven-business-transformation)
+			* [1.5 Critical Importance of &quot;Thinking Differently&quot;](#15-critical-importance-of-thinking-differently)
+		* [Chapter 2. Big Data Business Model Maturity Index](#chapter-2-big-data-business-model-maturity-index)
+			* [2.1.  Business Monitoring](#21--business-monitoring)
+			* [2.2. Business Insight](#22-business-insight)
+			* [2.3. Business Optimization](#23-business-optimization)
+			* [2.4. Data Monetization](#24-data-monetization)
+			* [2.5. Business Metamorphosis](#25-business-metamorphosis)
+			* [2.6 Lessons learned (3 lessons)](#26-lessons-learned-3-lessons)
+		* [Chapter 3. The Big Data Strategy Document](#chapter-3-the-big-data-strategy-document)
+			* [3.1. Establishing Common Business Terminology](#31-establishing-common-business-terminology)
+			* [3.2. Introducing the Big Data Strategy Document](#32-introducing-the-big-data-strategy-document)
+			* [3.3. Identify the Organization's Key Business Initiatives](#33-identify-the-organizations-key-business-initiatives)
+			* [3.4. Identify Key Business Entities and Key Decisions](#34-identify-key-business-entities-and-key-decisions)
+			* [3.5. Identify Financial Drivers (Use Cases)](#35-identify-financial-drivers-use-cases)
+			* [3.6 Identify and Prioritize Data Sources](#36-identify-and-prioritize-data-sources)
+			* [3.7. Introducing the Prioritization Matrix](#37-introducing-the-prioritization-matrix)
+		* [Chapter 4: The Importance of the User Experience](#chapter-4-the-importance-of-the-user-experience)
+			* [4.1. Capture the Key Decisions](#41-capture-the-key-decisions)
+			* [4.2. Case study](#42-case-study)
+
+<!-- End Document Outline -->
+
 # The Art & Science of Driving Business
 ## Part I. Business Potential of Big Data
 ### Chapter 1. The Big Data Business Mandate
@@ -124,7 +155,7 @@ Giai đoạn Business Metamorphosis là giai đoạn doanh nghiệp sẽ tìm c�
 - Công ty năng lượng chuyển dịch sang dịch vụ "Tối ưu trạm năng lượng" - Dự đoán các trạm cần bảo dưỡng
 - Các cửa hàng bán lẻ chuyển dịch sang dịch vụ "Tối ưu mua sắm" - Gợi ý sản phẩm phù hợp với khách hàng
 
-#### Lessons learned (3 lessons)
+#### 2.6 Lessons learned (3 lessons)
 ##### Lesson 1: Focus Initial Big Data Efforts Internally
 Ba giai đoạn đầu của Big Data Business Model Maturity tập trung vào tối ưu quy trình nội bộ (__internal process optimization__), áp dụng 4 Big data value drivers:
 - Access to all the organization’s detailed transactional and operational data at the lowest level of granularity (at the individual customer, machine, or device level).
@@ -226,7 +257,7 @@ Trải nghiệm khách hàng là một trong những bí mật tạo nên thành
 - **"Begin with an end in mind"**: Luôn bắt đầu bằng việc tìm hiểu xem người dùng cuối muốn gì? Làm thế nào để sử dụng kết quả phân tích để mang lại giá trị cho người dùng cuối một cách hiệu quả?
 - **"Close the analytics loop**: Quá trình khép kín giữa phân tích và nâng cao trải nghiệm khách hàng.
 
-#### Capture the Key Decisions
+#### 4.1. Capture the Key Decisions
 Sau đây là một quy trình tóm tắt cách doanh nghiệp định nghĩa Key Decisions (tương tự với Big data strategy document được đề cập ở chapter 3):
 - **Step 1**: Hiểu rõ **Business initiatives** hoặc business challenge của doanh nghiệp.
     - Example: The initiative is “Don’t exceed your monthly data usage plan”
@@ -236,7 +267,7 @@ Sau đây là một quy trình tóm tắt cách doanh nghiệp định nghĩa Ke
 - **Step 4**: Suy nghĩ về các **questions** mà business stakeholders cần phải trả lời để tạo điều kiện cho việc ra quyết định
     - Example: How much of my data plan do I have left? When does my new month start? When will I run over for my current period given my current usage?
 
-#### Case study
+#### 4.2. Case study
 Đọc thêm: [Big Data MBA Driving Business Strategies with Data Science by Bill Schmarzo (Page 94-112)](<https://dungnv0696.github.io/nhathomongmer/assets/docs/Big Data MBA Driving Business Strategies with Data Science by Bill Schmarzo.pdf>).
 
 
