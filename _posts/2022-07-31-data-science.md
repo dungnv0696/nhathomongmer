@@ -29,6 +29,7 @@ description: Data Science
         <th>Data Science</th>
       </tr>
     </thead>
+    
     <tbody>
       <tr>
         <td colspan="2">Definition</td>

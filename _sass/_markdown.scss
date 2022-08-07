@@ -113,5 +113,12 @@
     tr:nth-child(even) {
       background-color: rgba(0, 0, 0, 0.05);
     }
+
+    img:not(.emoji) {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      margin: 1rem auto;
+    }
   }
 }
