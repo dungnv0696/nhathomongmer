@@ -191,3 +191,8 @@ description: Data Science
 </table>
 
 ### Chapter 6. Data Science 101
+![Advanced Analytic](https://dungnv0696.github.io/nhathomongmer/assets/images/advanced_analytic.png)
+
+![Fundamental Exploratory Analysis](https://dungnv0696.github.io/nhathomongmer/assets/images/fundamental_exploratory_analysis.png)
+
+### Chapter 7. Data Lake
