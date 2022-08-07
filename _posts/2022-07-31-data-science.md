@@ -89,18 +89,18 @@ description: Data Science
                 <li>Work closely with data warehouse to build data model</li>
                 <li>Schema onload</li>
                 <br>
-            <div>
+            </div>
             <div>
                 Define the reports (query):
                 <li>Use BI tool (Ex: SAP, cogmos, etc.) to create SQL-based query to build report</li>
                 <li>Use graphical user interface (GUI)</li>
                 <br>
-            <div>
+            </div>
             <div>
                 Generate SQL command:
                 <li>After report is defined, BI tool create nesscessary commands</li>
                 <br>
-            <div>
+            </div>
             <div>
                 Create report:
                 <li>BI tool issues the SQL commands to make dashboard (interative process)</li>
@@ -115,26 +115,26 @@ description: Data Science
                 <li>Define hypothesis, prediction to be made</li>
                 <li>This is collaboration's result with business subject matter expert to understand key resources</li>
                 <br>
-            <div>
+            </div>
             <div>
                 Gather data:
                 <li>Gather relevant or potential interesting data from multiple sources, then push to DL or sandbox (collaboration)</li>
                 <br>
-            <div>
+            </div>
             <div>
                 Build data model:
                 <li>Schema on query: test several version before finding a schema that support model</li>
                 <br>
-            <div>
+            </div>
             <div>
                 Visualize data:
                 <li>Use visualization tool to find correlation, outliers</li>
                 <li><b>Tableau, ggplot2</b>: use to indentify variables to test</li>
-            <div>
+            </div>
             <div>
                 Build analytics model:
                 <li><b>SAS, SASMiner, R, Mahout, MADlib, Alpine Miner, H2O</b> to build model, try various techniques</b></li>
-            <div>
+            </div>
             <div>
                 Evaluate model:
                 <li>Describe how well a model fit to observation: Kolmogorov-Smirnov, Person's, chi-square, ANOVA, confusion matrix</li>
