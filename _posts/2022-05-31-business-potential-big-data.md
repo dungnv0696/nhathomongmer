@@ -17,7 +17,7 @@ Phân tích dữ liệu không chỉ là một giải pháp phụ trợ hoặc t
 
 Trước khi đi vào cụ thể phương pháp ứng dụng phân tích dữ liệu, các tổ chức cần phải nắm rõ mức độ trưởng thành hiện tại của doanh nghiệp trong lĩnh vực Big Data:
 
-![Big Data Business Model Maturity Index](https://dungnv0696.github.io/nhathomongmo/assets/images/big_data_business_model_maturity_index.png)
+![Big Data Business Model Maturity Index](https://dungnv0696.github.io/nhathomongmer/assets/images/big_data_business_model_maturity_index.png)
 
 Big Data Business Model Maturity Index bao gồm 5 giai đoạn:
 - __Phase 1: Business Monitoring__. Trong giai đoạn này, doanh nghiệp sẽ tận dụng __Data Warehouse__ và __Business Intelligence__ để giám sát hiệu suất (__Monitor performance__) của tổ chức. 
@@ -74,7 +74,7 @@ Trở lại với Big Data, tất cả các đổi mới sáng tạo đều rút
 
 #### 1.5 Critical Importance of "Thinking Differently"
 
-![Thinking Differently](https://dungnv0696.github.io/nhathomongmo/assets/images/thinking_differently.png)
+![Thinking Differently](https://dungnv0696.github.io/nhathomongmer/assets/images/thinking_differently.png)
 
 ### Chapter 2. Big Data Business Model Maturity Index
 Ở chương này, ta đi sâu vào từng giai đoạn trong Big Data Business Model Maturity Index.
@@ -132,12 +132,12 @@ Ba giai đoạn đầu của Big Data Business Model Maturity tập trung vào t
 - Leverage real-time (or right-time) data analysis to accelerate the organization’s ability to identify and act on customer, product, and market opportunities in a timelier manner.
 - Apply predictive analytics and data mining to uncover customer, product, and operational insights or areas of “unusualness” buried in the massive volumes of detailed structured and unstructured data that are worthy of further business investigation.
 
-![Optimize internal processes](https://dungnv0696.github.io/nhathomongmo/assets/images/optimize_internal_processes.png)
+![Optimize internal processes](https://dungnv0696.github.io/nhathomongmer/assets/images/optimize_internal_processes.png)
 
 ##### Lesson 2: Leverage Insights to Create New Monetization Opportunities 
 Hai giai đoạn sau của Big Data Business Model Maturity tập trung vào cơ hội kinh doanh ở thị trường bên ngoài doanh nghiệp (__external market opportunities__). Đây là những giai đoạn "4 Ms" của Big Data Business Model Maturity, khi mà doanh nghiệp tận dụng phân tích dữ liệu để tạo nên cơ hội để "__Make Me More Money__"
 
-![Create new monetization opportunities](https://dungnv0696.github.io/nhathomongmo/assets/images/create_new_monetization_opportunities.png)
+![Create new monetization opportunities](https://dungnv0696.github.io/nhathomongmer/assets/images/create_new_monetization_opportunities.png)
 
 ##### Lesson 3: Preparing for organizational Transformation
 Để tích hợp phân tích dữ liệu vào mô hình kinh doanh, doanh nghiệp cần:
@@ -147,7 +147,7 @@ Hai giai đoạn sau của Big Data Business Model Maturity tập trung vào cơ
 
 ### Chapter 3. The Big Data Strategy Document
 #### 3.1. Establishing Common Business Terminology
-![Big data strategy process](https://dungnv0696.github.io/nhathomongmo/assets/images/Big_data_strategy_process.png)
+![Big data strategy process](https://dungnv0696.github.io/nhathomongmer/assets/images/Big_data_strategy_process.png)
 
 Trước tiên đi vào xây dựng tài liệu chiến lược Big Data, ta cần phải hiểu rõ quy trình chiến lược Big Data:
 - **Corporate Mission**: Sứ mệnh của tổ chức sẽ trả lời cho câu hỏi **Why**, lí do tổ chức tồn tại. Chẳng hạn sứ mệnh của The Walt Disney là "to be one of the world's leading producers and providers of entertainment and information"
@@ -165,7 +165,7 @@ Big Data Strategy Document có hiệu quả bởi vì:
 - **It's clear**: Định nghĩa những việc phải làm để đạt được Business Initiatives
 - **It's business relevant**: Bắt đầu bằng việc tập trung vào **Business Strategy** và hỗ trợ **Initiatives** trước khi đi sâu vào **Data** và **Technology Requirements**
 
-![big data strategy document](https://dungnv0696.github.io/nhathomongmo/assets/images/big_data_strategy_document.png)
+![big data strategy document](https://dungnv0696.github.io/nhathomongmer/assets/images/big_data_strategy_document.png)
 
 Big Data strategy document được phân rã thành 5 thành phần sau:
 - **Business strategy**
@@ -206,7 +206,7 @@ Tiếp theo, định nghĩa **business decisions** cần thiết về các busin
 #### 3.5. Identify Financial Drivers (Use Cases)
 Ở bước này, ta sẽ gom nhóm các quyết định thành các use cases (themes) phổ biến dựa trên sự tương đồng về mục tiêu kinh doanh.
 
-![Completed Chipotle big data strategy document](https://dungnv0696.github.io/nhathomongmo/assets/images/completed_chipotle_big_data_strategy_document.png)
+![Completed Chipotle big data strategy document](https://dungnv0696.github.io/nhathomongmer/assets/images/completed_chipotle_big_data_strategy_document.png)
 
 #### 3.6 Identify and Prioritize Data Sources
 Khi đã định nghĩa được use cases, ta cần phải định nghĩa các nguồn dữ liệu có thể tạo nên insights cho Business Initiative.
@@ -217,7 +217,7 @@ Tuy nhiên không phải nguồn dữ liệu nào cũng có giá trị và có t
 #### 3.7. Introducing the Prioritization Matrix
 Cuối cùng, ta phải xây dựng được ma trận ưu tiên cho các use case để đánh giá xem use case nào tiềm năng về cả **Business Value** và **Implementation Feasibility**.
 
-![Prioritization Matrix](https://dungnv0696.github.io/nhathomongmo/assets/images/prioritization_matrix.png)
+![Prioritization Matrix](https://dungnv0696.github.io/nhathomongmer/assets/images/prioritization_matrix.png)
 
 Trong đó, chiều dọc **Business Value** sẽ được nhóm stakeholders và người dùng doanh nghiệp sở hữu giá trị kinh doanh đó quan tâm. Chiều ngang **Implementation Feasibility** sẽ được điều hành bởi các doanh nghiệp công nghệ thông tin.
 
@@ -237,7 +237,7 @@ Sau đây là một quy trình tóm tắt cách doanh nghiệp định nghĩa Ke
     - Example: How much of my data plan do I have left? When does my new month start? When will I run over for my current period given my current usage?
 
 #### Case study
-Đọc thêm: [Big Data MBA Driving Business Strategies with Data Science by Bill Schmarzo (Page 94-112)](<https://dungnv0696.github.io/nhathomongmo/assets/docs/Big Data MBA Driving Business Strategies with Data Science by Bill Schmarzo.pdf>).
+Đọc thêm: [Big Data MBA Driving Business Strategies with Data Science by Bill Schmarzo (Page 94-112)](<https://dungnv0696.github.io/nhathomongmer/assets/docs/Big Data MBA Driving Business Strategies with Data Science by Bill Schmarzo.pdf>).
 
 
 

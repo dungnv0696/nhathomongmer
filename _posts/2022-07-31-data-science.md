@@ -6,7 +6,6 @@ color: secondary
 comments: true
 description: Data Science
 ---
-
 # The Art & Science of Driving Business
 ## Part II. Data Science
 ### Chapter 5. Differences Between Business Intelligence and Data Science
@@ -66,10 +65,10 @@ description: Data Science
     <td>Retrospective, descriptive</td>
     <td>Predictive, Prescriptive</td>
   </tr>
-  <tr>
+  <tr style="background-color:#FFFFFF">
     <td colspan="2">Analytics appoarches<br>(engagement process)</td>
-    <td></td>
-    <td></td>
+    <td><img src="https://dungnv0696.github.io/nhathomongmer/assets/images/BI_analytic_approachs.png"/></td>
+    <td><img src="https://dungnv0696.github.io/nhathomongmer/assets/images/DS_analytic_approachs.png"/></td>
   </tr>
   <tr>
     <td colspan="2">Data models</td>
