@@ -104,7 +104,7 @@ description: Data Science
             <div>
                 Create report:
                 <li>BI tool issues the SQL commands to make dashboard (interative process)</li>
-            <div>
+            </div>
         </td>
         <td>
             <div>
@@ -138,7 +138,7 @@ description: Data Science
             <div>
                 Evaluate model:
                 <li>Describe how well a model fit to observation: Kolmogorov-Smirnov, Person's, chi-square, ANOVA, confusion matrix</li>
-            <div>
+            </div>
         </td>
       </tr>
       <tr>
@@ -161,8 +161,10 @@ description: Data Science
                         <li>Enable analytic exploration</li>
                     </ul>
                 </li>
-                → Support nature question and answer exploration process (now standard to work with data warehouse)
             </ul>
+            <div>
+            → Support nature question and answer exploration process (now standard to work with data warehouse)
+            </div>
         </td>
         <td>
             Hadoop:
