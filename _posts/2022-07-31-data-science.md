@@ -196,3 +196,65 @@ description: Data Science
 ![Fundamental Exploratory Analysis](https://dungnv0696.github.io/nhathomongmer/assets/images/fundamental_exploratory_analysis.png)
 
 ### Chapter 7. Data Lake
+Data lake can store:
+- Structured data: relational table, csv files
+- Semi-structured data: web logs, sensor logs, XML, json
+- Unstructured data: text files, social media post, photos, videos
+    
+Data lake can do:
+- Eliminate data silos: combine to single data lake
+- Consolidate in efficient storage silos
+- Provide a simple, scalable, plexible works across block, file, workloads. Improve operational flexibility
+- Reduce IT cost, speed up time to insights
+- Enable robust data protection
+- Reduce data warehouse workload: moving Query to sandbox, datalake
+- Free data warehouse by moving ETL to data lake
+- Unhandcuff BI analyst, DS from being reliant on data warehouse as a single source
+
+**If only focus on storing and ignore how or why data is used, governed, secured, data lake can turn into Data swamps**
+
+Characteristics of a Business-ready data lake:
+- Ingest: 
+    - Rapidly ingest data from internal, external sources
+    - Does not require any data transformation prior to
+- Store:
+    - Single/central repository for ALL data (even data is not used)
+- Analyze:
+    - Provide sandbox environment for DS
+- Surface:
+    - Support analytic model development and extract analytic result
+- Act:
+    - Enable integration of analytic result back to operational system, management system (close the loop)
+    
+
+<table>
+<thead>
+	<tr>
+		<th>BI environment</th>
+		<th>Analytics environment</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>Create and deliver operational &amp; management report, dashboard on regular basis</td>
+		<td>Exploratory environment, ingest and analyze a lot of data</td>
+	</tr>
+	<tr>
+		<td>Predictable load</td>
+		<td>Unpredictable load</td>
+	</tr>
+	<tr>
+		<td>Service level agreement (SLA) constrained</td>
+		<td>Experiment oriented: test data, algorithms, tools, techniques</td>
+	</tr>
+	<tr>
+		<td>Heavily governed, historical data must be 100% accurate</td>
+		<td>Loosely governed until it proves some value in data</td>
+	</tr>
+	<tr>
+		<td>Standard tools</td>
+		<td>Best tool for the job</td>
+	</tr>
+</tbody>
+</table>
+
