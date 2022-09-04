@@ -13,13 +13,12 @@ description: Data Science
 	* [Part II. Data Science](#part-ii-data-science)
 		* [Chapter 5. Differences Between Business Intelligence and Data Science](#chapter-5-differences-between-business-intelligence-and-data-science)
 		* [Chapter 6. Data Science 101](#chapter-6-data-science-101)
-
+        * [Chapter 7. Data Lake](#chapter-7-data-lake)
 <!-- End Document Outline -->
 
 # The Art & Science of Driving Business
 ## Part II. Data Science
 ### Chapter 5. Differences Between Business Intelligence and Data Science
-
 
 <table>
     <thead>
